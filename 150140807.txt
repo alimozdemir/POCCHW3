@@ -1,0 +1,4 @@
+COLLISIONS: A => B (1 => 2)
+COLLISIONS: C => B (1 => 2)
+SUCCESS: B => C (3 => 4)
+OOR: D => C (5 => 5)
